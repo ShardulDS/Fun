@@ -4,6 +4,8 @@ Write clean and efficient Python code to find the total number of ways to fill u
 swimming pool using that bucket. You cannot use a bucket with 0 litres to fill, i.e, the
 litres of water in the bucket should be positive integers.'''
 
+"""Math concept: https://qr.ae/pGSOGq"""
+
 
 def factorial(x):
     if x == 1:
