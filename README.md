@@ -1,7 +1,7 @@
-#Fun
+# Fun
 
 Just for fun
 
-##Hello
+## Hello
 
 This is from a new branch
